@@ -3,7 +3,6 @@
 <img src="assets/wallbanner.jpg" width="100%" />
 
 <br/>
-
 # `> DSF1re_`
 
 **Full Stack Developer · Flutter & Dart Enthusiast**
