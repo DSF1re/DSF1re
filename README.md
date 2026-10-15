@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <p>
   <img src="assets/flutter.png" height="48" alt="Flutter" />&nbsp;&nbsp;
@@ -33,14 +33,14 @@
 
 </div>
 
-### 👋 About Me
+### About Me
 
 I'm a **full stack developer** with a strong focus on **Flutter & Dart** for building cross-platform mobile and web applications. I enjoy crafting clean, performant UIs on the frontend and designing solid, scalable systems on the backend.
 
-- 🔭 &nbsp;Currently building cross-platform apps with **Flutter**
-- 🧩 &nbsp;Backend experience with **Python**, **C# / .NET**, and **PostgreSQL**
-- 🐳 &nbsp;Comfortable with **Docker** and containerized workflows
-- ⚡ &nbsp;Passionate about clean architecture and pixel-perfect interfaces
+- &nbsp;Currently building cross-platform apps with **Flutter**
+- &nbsp;Backend experience with **Python**, **C# / .NET**, and **PostgreSQL**
+- &nbsp;Comfortable with **Docker** and containerized workflows
+- &nbsp;Passionate about clean architecture and pixel-perfect interfaces
 
 <div align="center">
 
