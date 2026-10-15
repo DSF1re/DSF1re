@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <img src="assets/wallbanner.jpg" width="100%" />
 
@@ -7,7 +7,6 @@
 # `> DSF1re_`
 
 **Full Stack Developer · Flutter & Dart Enthusiast**
-
 <br/>
 
 ---
